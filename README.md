@@ -16,6 +16,6 @@ Packet spoofing: Packet spoofing, on the other hand, involves the creation and s
 
 #  Lab 1: Using Tools to Sniff and Spoof Packets
 
->  Command to install Scapy for Pyhon3
+>  Command to install Scapy for Pyhon3 <br/>
 >  $ sudo pip3 install scapy
 > 

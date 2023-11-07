@@ -13,3 +13,5 @@ Packet spoofing: Packet spoofing, on the other hand, involves the creation and s
 • Packet sniffing using the pcap library and Scapy <br/>
 • Packet spoofing using raw socket and Scapy <br/>
 • Manipulating packets using Scapy<br/>
+
+#  Lab 1: Using Tools to Sniff and Spoof Packets

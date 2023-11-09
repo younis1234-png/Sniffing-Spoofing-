@@ -20,6 +20,8 @@ Packet spoofing: Packet spoofing, on the other hand, involves the creation and s
 >  $ sudo pip3 install scapy
 >
 
+#To capture only ICMP packets, you can use the following code snippet:
+
 <img width="477" alt="Screenshot 2023-11-07 at 11 10 26 PM" src="https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/fc1db0c0-5390-4192-8634-9df356d0bf83">
 <br/> 
 

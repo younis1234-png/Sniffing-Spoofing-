@@ -46,11 +46,13 @@ Packet spoofing: Packet spoofing, on the other hand, involves the creation and s
 ![Screenshot 2023-11-09 at 4 08 23 PM](https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/bae564e3-6bba-498f-aa4a-cc2bc683f5ff)
 
 
+# Capture packets that come from or go to a particular subnet.
 
-
-
-
-
+![Screenshot 2023-11-09 at 4 21 36 PM](https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/58d68393-60dd-4582-a1d4-6782f6536e62)
+<br/>
+![Screenshot 2023-11-09 at 4 22 26 PM](https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/9ae14426-61bd-4b07-a841-1b9d0beee1b7)
+<br/>
+![Screenshot 2023-11-09 at 4 22 46 PM](https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/83e6ae65-19a3-4529-b7a5-152401f40bc0)
 
 
 

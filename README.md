@@ -35,3 +35,24 @@ Packet spoofing: Packet spoofing, on the other hand, involves the creation and s
 <br/>
 
 <img width="516" alt="Screenshot 2023-11-07 at 11 12 45 PM" src="https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/97eacbbd-10ad-46dc-b31e-3400c1ff7960">
+
+<br/>
+
+# Capture any TCP packet that comes from a particular IP and with a destination port number 23.
+
+![Screenshot 2023-11-09 at 4 08 23 PM](https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/bae564e3-6bba-498f-aa4a-cc2bc683f5ff)
+
+![Screenshot 2023-11-09 at 4 06 49 PM](https://github.com/younis1234-png/Sniffing-Spoofing-/assets/73474252/bddd210f-7ab3-4e7f-b0f0-6728e7615208)
+
+
+
+
+
+
+
+
+
+
+
+
+
